@@ -1,1 +1,1 @@
-# vpn
+# Virtual Private Network (VPN)
